@@ -27,7 +27,7 @@ const paths = [{
         "text": "You decide to contact your friend to ride out the apocalypse together. She is well armed and ready to kick some zombie butt. Maybe a little too much for your liking. She wants to go to the mall and stock up on some ammo before they run out.",
         "img": "https://i.imgur.com/EIZwLBi.jpg?1",
         "paths": [{
-                "buttonTitle": "Go back home.",
+                "buttonTitle": "Go Back Home.",
                 "next": 0
             },
             {
@@ -39,7 +39,7 @@ const paths = [{
 
     {
         "id": 2,
-        "text": "You weren't the only person who thought of escaping via public transportation. The trains are still running, but slowly. After pushing yourself onto the platform, you can hear the train approaching from the distance. Unfortunately at the same time, the infected are battling a group of people a few feet behind you. You can either wait for the upcoming train or climb up emergency exit and run back home. ",
+        "text": "You weren't the only person who thought of escaping via public transportation. The trains are still running, but slowly. After pushing yourself onto the platform, you can hear the train approaching from the distance. Unfortunately at the same time, the infected are slowly spreading the sickness, attacking survivors somewhere behind you. You can either wait for the upcoming train or escape via emergency exit and run back home. ",
         "img": "https://i.imgur.com/pASSAoI.jpg?1",
         "paths": [{
                 "buttonTitle": "Go Back Home",
@@ -68,7 +68,7 @@ const paths = [{
 
     {
         "id": 5,
-        "text": "You arrive and after pushing and shoving other panicking survivors, you end up with the ammo. Then you hear them. A giant hoard out of the undead are inexplicably at this suburban mall. Sadly, your friend gets bitten. She bravely eliminates herself in order not to infect you. Shortly thereafter you get bit and turn into a zombie.",
+        "text": "You arrive and after pushing and shoving other panicking survivors, you end up with the ammo. Then you hear them. A huge horde out of the undead are inexplicably at this suburban mall. Sadly, your friend gets bitten. She bravely eliminates herself in order not to infect you. Shortly thereafter you get bit and turn into a zombie.",
         "img": "https://i.imgur.com/aUJ62Yx.jpg?1",
         "gameOver": "Game Over"
     },
