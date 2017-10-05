@@ -28,7 +28,7 @@ background: rgba(50, 50, 40, 0.80);
  padding-bottom: 10px;
 }
 
-@media screen and (min-width: 700px){
+@media screen and (min-width: 785px){
 .gameInterface{
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
