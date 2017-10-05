@@ -74,7 +74,7 @@ const paths = [{
     },
     {
         "id": 6,
-        "text": "As the train approaches, you see a zombie jump onto a woman and begin to feeding on her. A young girl, possibly her daughter watches in horror. The train arrives and you decide to save the traumatized child. Right as you pick her up, you hear a new victim being infected right next you. Unfortunately some of their blood lands in open mouth. You and the girl reach the outskirts of the city, right as you begin to turn into a threat for everyone in the subway car.",
+        "text": "As the train approaches, you see a zombie jump onto a woman and begin to feeding on her. A young girl, possibly her daughter watches in horror. The train arrives and you decide to save the traumatized child. Right as you pick her up, you hear a new victim being infected right next you. Unfortunately some of their blood lands your in open mouth. You and the girl reach the outskirts of the city, right as you begin to turn into a threat for everyone in the subway car.",
         "img": "https://i.imgur.com/FfnevrJ.jpg?1",
         "gameOver": "Game Over"
     },
