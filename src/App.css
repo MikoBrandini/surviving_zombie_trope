@@ -6,7 +6,7 @@ height: 100vh;
 color: white;
 }
 
-.content, .footer{
+.header > li, .content, .footer{
 background: rgba(50, 50, 40, 0.80);
 }
 
