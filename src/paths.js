@@ -42,7 +42,7 @@ const paths = [{
         "text": "You weren't the only person who thought of escaping via public transportation. The trains are still running, but slowly. After pushing yourself onto the platform, you can hear the train approaching from the distance. Unfortunately at the same time, the infected are battling a group of people a few feet behind you. You can either wait for the upcoming train or climb up emergency exit and run back home. ",
         "img": "https://i.imgur.com/pASSAoI.jpg?1",
         "paths": [{
-                "buttonTitle": "Emergency Exit Home",
+                "buttonTitle": "Go Back Home",
                 "next": 0
             },
             {
