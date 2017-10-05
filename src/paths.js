@@ -1,6 +1,6 @@
 const paths = [{
         "id": 0,
-        "text": "A bizzare case of rabies is spreading throughout the city. People inflected with the disease seem to perish but rise up and begin feed on the living. You're starting to slightly worry and it doesn't help that you're not feeling well.  ",
+        "text": "A bizarre case of rabies is spreading throughout the city. People inflected with the disease seem to perish but rise up and begin feed on the living. You're starting to slightly worry and it doesn't help that you're not feeling well.  ",
         "img": "https://i.imgur.com/iFuJQiN.jpg",
         "paths": [{
                 "buttonTitle": "Visit Friend",
@@ -24,7 +24,7 @@ const paths = [{
 
     {
         "id": 1,
-        "text": "You decide to contact your friend to ride out apocalypse together. He is well armed and ready to kick some zombie ass. Maybe a little too much for your liking. He wants to go to the mall and stock up on some ammo before it's all gone.",
+        "text": "You decide to contact your friend to ride out the apocalypse together. She is well armed and ready to kick some zombie butt. Maybe a little too much for your liking. She wants to go to the mall and stock up on some ammo before they run out.",
         "img": "https://i.imgur.com/EIZwLBi.jpg?1",
         "paths": [{
                 "buttonTitle": "Go back home.",
@@ -39,7 +39,7 @@ const paths = [{
 
     {
         "id": 2,
-        "text": "It seems like you weren't the only person with that idea. The trains are stil running, but slowly. After pushing yourself to the platform, you can hear the train approaching. Unfortunately at the same time, the infection is spreading somewhere in the back. You can either wait for the upcoming train or take an emergency exit and run back home. ",
+        "text": "You weren't the only person who thought of escaping via public transportation. The trains are still running, but slowly. After pushing yourself onto the platform, you can hear the train approaching from the distance. Unfortunately at the same time, the infected are battling a group of people a few feet behind you. You can either wait for the upcoming train or climb up emergency exit and run back home. ",
         "img": "https://i.imgur.com/pASSAoI.jpg?1",
         "paths": [{
                 "buttonTitle": "Emergency Exit Home",
@@ -55,26 +55,26 @@ const paths = [{
 
     {
         "id": 3,
-        "text": "Luckily you have enough supplies to survive in your apartment for a few weeks but the situation gets worse outside. You haven't heard your nextdoor neighbor in a few days. He must have escaped. You decide to break into his apartment via the fire escape. You climb throughthe shatter window and find an empty living room. You look for the kitchen and on the way there, you see him. It seems like you will be what's on the menu today. ",
+        "text": "Luckily you have enough supplies to survive in your apartment for a few weeks but the situation gets worse outside. You haven't heard your next door neighbor in a few days. He must have escaped. You decide to break into his apartment via the fire escape. You climb through the shattered window and find an empty living room. You look for the kitchen and then you see him. It seems like you will be what's on the menu today. ",
         "img": "https://i.imgur.com/55vuAV8.jpg",
         "gameOver": "Game Over"
     },
     {
         "id": 4,
-        "text": "You arrive at the local hospital without experiencing any trouble. You are treated promptly and diagnosed with rabies. The doctors put you under an induced coma. You wake up 3 months later to an abandoned hospital. You quickly learn that while most of humanity was wiped off, a handful of infected people such as yourself were immune to the zombie symptoms of the virus and only ever had rabie symptoms. You now live in a military dictatorship ran by the soldiers who survived the infection in their nuclear submarines and aircraft carriers.",
+        "text": "You arrive at the local hospital without much hurdle. You are treated promptly and diagnosed with rabies. The doctors put you under an induced coma. You wake up 3 months later to an abandoned hospital. You quickly learn that while most of humanity was wiped off, a handful of people such as yourself are immune to the zombie symptoms. You now live in a military dictatorship ran by the soldiers who survived the infection in their nuclear submarines and aircraft carriers. You are kept alive to study your immune system. Congratulations!",
         "img": "https://i.imgur.com/RWDGt0q.jpg",
         "gameOver": "Game Over"
     },
 
     {
         "id": 5,
-        "text": "You arrive and after fighting other survivors, you end up with the ammo. Sadly, your friend gets bitten. He bravely eliminates himself in order not to infect you. Shortly thereafter you get bit and turn into a zombie.",
+        "text": "You arrive and after pushing and shoving other panicking survivors, you end up with the ammo. Then you hear them. A giant hoard out of the undead are inexplicably at this suburban mall. Sadly, your friend gets bitten. She bravely eliminates herself in order not to infect you. Shortly thereafter you get bit and turn into a zombie.",
         "img": "https://i.imgur.com/aUJ62Yx.jpg?1",
         "gameOver": "Game Over"
     },
     {
         "id": 6,
-        "text": "While waititng for the train, you see a zombie jump on a woman and begin to infect her. A young girl, possibly her daughter watches in horror. The train arrives and while being shoved inside by other survivors, you decide to take the traumatized girl with you. Right as you pick her up, you hear a new victim being infected right next you. Unfortunately some of their blood lands in open mouth. You and the girl reach the outskirts of the city, right as you begin to turn into a threat for everyone in the subway car.",
+        "text": "As the train approaches, you see a zombie jump onto a woman and begin to feeding on her. A young girl, possibly her daughter watches in horror. The train arrives and you decide to save the traumatized child. Right as you pick her up, you hear a new victim being infected right next you. Unfortunately some of their blood lands in open mouth. You and the girl reach the outskirts of the city, right as you begin to turn into a threat for everyone in the subway car.",
         "img": "https://i.imgur.com/FfnevrJ.jpg?1",
         "gameOver": "Game Over"
     },
