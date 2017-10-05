@@ -4,7 +4,8 @@ const Content = (props) =>{
   return(
     <div className="container-fluid content">
       <p>{props.text}</p>
-      {props.showButtons(props.paths)}
+      <div className="gameInterface">{props.showButtons(props.paths)}</div>
+      <h1 onClick={props.reset} className="text-danger text-center">{props.gameOver}</h1>
     </div>
     )
 }
