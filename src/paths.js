@@ -7,7 +7,7 @@ const paths = [{
                 "next": 1
             },
             {
-                "buttonTitle": "Try to Escape School",
+                "buttonTitle": "Go To The Hospital",
                 "next": 4
             },
             {
@@ -15,7 +15,7 @@ const paths = [{
                 "next": 2
             },
             {
-                "buttonTitle": "Walk towards laughter.",
+                "buttonTitle": "Stay Home.",
                 "next": 3
             }
 
@@ -53,19 +53,16 @@ const paths = [{
         ]
     },
 
-
-    {
-        "id": 6,
-        "text": "As you enter the kitchen, a hoard of reanimated cafeteria workers surround and consume you. ",
-        "img": "https://i.imgur.com/xPbxlei.jpg"
-    },
-
     {
         "id": 3,
-        "text": "Feral children led by a headstrong thirteen year old view you as a threat and decide to eliminate you.",
-        "img": "https://i.imgur.com/xPbxlei.jpg"
+        "text": "Luckily you have enough supplies to survive in your apartment for a few weeks but the situation gets worse outside. You haven't heard your nextdoor neighbor in a few days. He must have escaped. You decide to break into his apartment via the fire escape. You climb throughthe shatter window and find an empty living room. You look for the kitchen and on the way there, you see him. It seems like you will be what's on the menu today. ",
+        "img": "https://i.imgur.com/55vuAV8.jpg"
     },
-
+    {
+        "id": 4,
+        "text": "You arrive at the local hospital without experiencing any trouble. You are treated promptly and diagnosed with rabies. The doctors put you under an induced coma. You wake up 3 months later to an abandoned hospital. You quickly learn that while most of humanity was wiped off, a handful of infected people such as yourself were immune to the zombie symptoms of the virus and only ever had rabie symptoms. You now live in a military dictatorship ran by the soldiers who survived the infection in their nuclear submarines and aircraft carriers.",
+        "img": "https://i.imgur.com/RWDGt0q.jpg"
+    },
 
     {
         "id": 5,
@@ -73,10 +70,11 @@ const paths = [{
         "img": "https://i.imgur.com/xPbxlei.jpg"
     },
     {
-        "id": 4,
-        "text": "You are saved by very kind people.",
+        "id": 6,
+        "text": "As you enter the kitchen, a hoard of reanimated cafeteria workers surround and consume you. ",
         "img": "https://i.imgur.com/xPbxlei.jpg"
-    }
+    },
+
 
 ];
 

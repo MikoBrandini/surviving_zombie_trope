@@ -28,6 +28,8 @@ class App extends Component {
   }
 
  quitGame(){
+      console.log("quit game")
+
     this.setState({
       current_path: 0
     });
@@ -48,10 +50,11 @@ class App extends Component {
     const data = this.state.paths[this.state.current_path];
     const currentPath = this.state.current_path
     const changePath = this.changePath
+    const quitGame = this.quitGame.bind(this)
 
     return (
       <div className="container-fluid mainContainer" style={{backgroundImage: `url(${data.img})`}}>
-        <Header/>
+        <Header reset={quitGame}/>
         <Content
           text={data.text}
           paths={data.paths}
