@@ -39,7 +39,7 @@ const paths = [{
 
     {
         "id": 2,
-        "text": "You weren't the only person who thought of escaping via public transportation. The trains are still running, but slowly. After pushing yourself onto the platform, you can hear the train approaching from the distance. Unfortunately at the same time, the infected are slowly spreading the sickness, attacking survivors somewhere behind you. You can either wait for the upcoming train or escape via emergency exit and run back home. ",
+        "text": "You weren't the only person who thought of escaping via public transportation. The trains are still running, but slowly. After pushing yourself onto the platform, you can hear the train approaching from the distance. Unfortunately at the same time, the infected are slowly spreading the sickness, attacking survivors somewhere behind you. You can either wait for the upcoming train or escape via the emergency exit and run back home. ",
         "img": "https://i.imgur.com/pASSAoI.jpg?1",
         "paths": [{
                 "buttonTitle": "Go Back Home",
@@ -74,7 +74,7 @@ const paths = [{
     },
     {
         "id": 6,
-        "text": "As the train approaches, you see a zombie jump onto a woman and begin to feeding on her. A young girl, possibly her daughter watches in horror. The train arrives and you decide to save the traumatized child. Right as you pick her up, you hear a new victim being infected right next you. Unfortunately some of their blood lands your in open mouth. You and the girl reach the outskirts of the city, right as you begin to turn into a threat for everyone in the subway car.",
+        "text": "As the train approaches, you see a zombie jump onto a woman and begin to feed on her. A young girl, possibly her daughter watches in horror. The train arrives and you decide to save the traumatized child. Right as you pick her up, you see a fellow passenger being munched on right next you. Unfortunately some of their blood splatters into your open mouth. Eventually, you and the girl safely reach the outskirts of the city, you begin to turn into a threat for everyone in the subway car.",
         "img": "https://i.imgur.com/FfnevrJ.jpg?1",
         "gameOver": "Game Over"
     },
