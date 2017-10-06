@@ -25,13 +25,11 @@ background: rgba(50, 50, 40, 0.80);
 .gameInterface{
   display: grid;
   grid-gap: 10px;
- padding-bottom: 10px;
 }
 
 @media screen and (min-width: 785px){
 .gameInterface{
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
   grid-template-areas:
   "btn btn "
   "btn btn";
