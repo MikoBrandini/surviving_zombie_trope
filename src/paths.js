@@ -1,6 +1,6 @@
 const paths = [{
         "id": 0,
-        "text": "A bizarre case of rabies is spreading throughout the city. People inflected with the disease seem to perish but rise up and begin feed on the living. You're starting to slightly worry and it doesn't help that you're not feeling well.  ",
+        "text": "A bizarre case of rabies is spreading throughout the city. People inflected with the disease seem to perish but rise up and begin to feed on the living. You're starting to slightly worry and it doesn't help that you're not feeling well.  ",
         "img": "https://i.imgur.com/iFuJQiN.jpg",
         "paths": [{
                 "buttonTitle": "Visit Friend",
@@ -68,13 +68,13 @@ const paths = [{
 
     {
         "id": 5,
-        "text": "You arrive and after pushing and shoving other panicking survivors, you end up with the ammo. Then you hear them. A huge horde out of the undead are inexplicably at this suburban mall. Sadly, your friend gets bitten. She bravely eliminates herself in order not to infect you. Shortly thereafter you get bit and turn into a zombie.",
+        "text": "You arrive and after pushing and shoving other panicking survivors, you end up with some ammo. Then you hear them. A huge horde out of the undead are inexplicably at this suburban mall. Sadly, your friend gets bitten. She bravely eliminates herself in order not to infect you. Shortly thereafter you get bit and turn into a zombie anyway.",
         "img": "https://i.imgur.com/aUJ62Yx.jpg?1",
         "gameOver": "Game Over"
     },
     {
         "id": 6,
-        "text": "As the train approaches, you see a zombie jump onto a woman and begin to feed on her. A young girl, possibly her daughter watches in horror. The train arrives and you decide to save the traumatized child. Right as you pick her up, you see a fellow passenger being feasted upon right next to you. Unfortunately some of their blood splatters into your open mouth. Eventually, you and the girl safely reach the outskirts of the city, you begin to turn into a threat for everyone in the subway car.",
+        "text": "As the train approaches, you see a zombie jump onto a woman and begin to feed on her. A young girl, possibly her daughter watches in horror. The train arrives and you decide to save the traumatized child. Right as you pick her up, you see a fellow passenger being feasted upon right next to you. Unfortunately some of their blood splatters into your open mouth. Eventually, you and the girl safely reach the outskirts of the city, right as you begin to turn into a threat for everyone in the subway car...",
         "img": "https://i.imgur.com/FfnevrJ.jpg?1",
         "gameOver": "Game Over"
     },
